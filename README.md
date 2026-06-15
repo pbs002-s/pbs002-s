@@ -214,14 +214,6 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pbs002-s&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
