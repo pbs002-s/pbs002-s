@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/github/stars/pbs002-s?label=Total+Stars&style=flat-square&color=5B21B6&logo=github" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ About
 
@@ -57,23 +57,21 @@ Currently focused on sharpening my full stack development skills with React.js w
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,react&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,react&theme=dark&perline=8" />
 </p>
-
-<p align="center"><b>Languages & Learning</b></p>
+<p align="center"><b>Languages & Frameworks</b></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=8" />
 </p>
-
 <p align="center"><b>Tools & Workflow</b></p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Areas of Interest
 
@@ -90,7 +88,7 @@ Currently focused on sharpening my full stack development skills with React.js w
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Featured Projects
 
@@ -111,8 +109,6 @@ A hands-on systems project that introduced real database design, CRUD operation 
 
 </details>
 
----
-
 <details>
 <summary><b>◈ Movie Ticket System</b></summary>
 <br>
@@ -129,8 +125,6 @@ A hands-on systems project that introduced real database design, CRUD operation 
 Implemented seat allocation logic and booking conflict handling — core concepts applicable to any reservation or scheduling system at scale.
 
 </details>
-
----
 
 <details>
 <summary><b>◈ Government GenZ Web</b></summary>
@@ -149,8 +143,6 @@ Designed with a user-first philosophy — structured information architecture an
 
 </details>
 
----
-
 <details>
 <summary><b>◈ AI Cluster</b></summary>
 <br>
@@ -168,7 +160,7 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Achievements
 
@@ -184,7 +176,11 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
 
 </div>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=pbs002-s&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Coding Profiles
 
@@ -198,21 +194,21 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pbs002-s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github&count_private=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pbs002-s&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&icon_color=7C3AED&text_color=E2E8F0&rank_icon=github&include_all_commits=true" height="180" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pbs002-s&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6B7280" height="180" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pbs002-s&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=6B7280" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbs002-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pbs002-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&langs_count=8" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Contribution Activity
 
@@ -220,7 +216,7 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pbs002-s&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&radius=8" width="95%" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Contribution Snake
 
@@ -228,7 +224,7 @@ Explored clustering algorithms such as K-Means, applied dimensionality reduction
   <img src="https://raw.githubusercontent.com/pbs002-s/pbs002-s/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Current Focus
 
@@ -239,17 +235,14 @@ current_focus:
     - Cyber Security fundamentals and ethical hacking concepts
     - Artificial Intelligence — supervised and unsupervised learning
     - Data Structures & Algorithms for competitive programming
-
   building:
     - Real-world full stack web projects with React.js
     - AI-powered mini tools and automation scripts
     - Expanding the Government GenZ Web platform
-
   exploring:
     - Game development concepts and prototyping
     - Open source contribution workflows
     - Cloud computing basics (AWS/GCP fundamentals)
-
   open_to:
     - Software engineering internships
     - Collaborative open source projects
@@ -257,7 +250,7 @@ current_focus:
     - Peer mentorship and tech communities
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 ## ◈ Connect
 
@@ -279,8 +272,6 @@ current_focus:
   </a>
 </p>
 
----
-
 <p align="center">
   <i>"Consistency beats talent when talent doesn't work consistently."</i>
 </p>
@@ -288,3 +279,4 @@ current_focus:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=footer" width="100%" />
 </p>
+
