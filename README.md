@@ -92,13 +92,13 @@ CSE student at Daffodil International University, building real-world software a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pbs002-s&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&radius=8" width="90%" />
+  <img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=pbs002-s&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&radius=8" width="90%" />
 </p>
 
 ## ◈ Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pbs002-s&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=pbs002-s&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
