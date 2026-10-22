@@ -91,16 +91,6 @@ CSE student at Daffodil International University, building real-world software a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbs002-s&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A78BFA&text_color=E2E8F0&cache_seconds=86400" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=pbs002-s&bg_color=0D0D1A&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=5B21B6&hide_border=true&radius=8" width="90%" />
-</p>
-
-## ◈ Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-eight.vercel.app/?username=pbs002-s&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" width="90%" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6D28D9&height=2&section=header" width="100%" />
 
 <p align="center"><i>"Consistency beats talent when talent doesn't work consistently."</i></p>
